@@ -32,6 +32,10 @@ _로스트밸리에 사는 동물들 중 나와 닮은 동물은 무엇일까요
 [결과화면]
 ![결과화면](./img/result.png)
 
+## Additional
+1. js 선택지 구현
+2. 질문화면에서 답변 선택을 안했다면 넘어가지 못하게 막음
+
 ## Members
 * **Soo-bin Lee (이수빈)** : PM, Plan, Full Stack Development - [Soo-bin](https://github.com/ccomangi2)
 * **A-ra Kim (김아라)** : Full Stack Development - [A-ra](https://github.com/IknowAra)
